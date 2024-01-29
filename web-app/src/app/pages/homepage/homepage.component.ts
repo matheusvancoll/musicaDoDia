@@ -20,4 +20,5 @@ export class HomepageComponent {
 
 
   itemSelected = NavbarOptions.INICIO
+  protected readonly NavbarOptions = NavbarOptions;
 }
