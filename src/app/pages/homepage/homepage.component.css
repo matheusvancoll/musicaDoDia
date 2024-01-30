@@ -1,0 +1,9 @@
+.buttonRecomendacaoHoje{
+  transition: 0.5s;
+}
+
+.buttonRecomendacaoHoje:hover{
+  color: #fff;
+  background: rgb(29,185,84);
+  background: linear-gradient(45deg, rgba(29,185,84,1) 0%, rgba(55,0,245,1) 100%);
+}
